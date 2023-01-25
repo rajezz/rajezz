@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋🏻 I'm Rajeswaran</h3>
-<h6 align="center">Interested in software technologies</h6>
+<h3 align="center">Hi 👋🏻, I'm Rajeswaran</h3>
+<h6 align="center">I'm kinda of person who wish to learn everything.</h6>
 
 <p align="center">
     <a href="https://rajezz.github.io/">Website</a> •
